@@ -10,7 +10,7 @@ class Example
     static void Main()
     {
         // Create array of supported cultures
-        string[] cultures = { "en-CA", "en-US", "fr-FR", "ru-RU" };
+        string[] cultures = { "en-CA", "en-US", "fr-FR", "ru-RU", "pl-PL" };
         CultureInfo originalCulture = Thread.CurrentThread.CurrentCulture;
 
         try
@@ -18,9 +18,7 @@ class Example
             for (int i = 0; i < 10; i++ )
             {
                 Random rnd = new Random();
-                int cultureNdx = rnd.Next(0, cultures.Length);
-               
-
+                int cultureNdx = rnd.Next(0, cultures.Length);             
 
                 CultureInfo newCulture = new CultureInfo(cultures[cultureNdx]);
                 Thread.CurrentThread.CurrentCulture = newCulture;

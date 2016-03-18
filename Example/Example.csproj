@@ -57,6 +57,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Greeting.fr-FR.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Greeting.pl-PL.resx" />
     <EmbeddedResource Include="Greeting.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Greeting.Designer.cs</LastGenOutput>
