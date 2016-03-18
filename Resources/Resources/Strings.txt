@@ -1,0 +1,12 @@
+﻿jumbo=ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.
+
+para1=ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that\nenables a clean separation of concerns and gives you full control over markup\nfor enjoyable, agile development.
+para2=NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
+para3=You can easily find a web hosting company that offers the right mix of features and price for your applications.
+
+header1=ASP.NET
+header2=Getting started
+header3=Get more libraries
+header4=Web Hosting
+
+learnMore=Learn more &raquo;
